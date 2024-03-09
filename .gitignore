@@ -42,4 +42,4 @@ reactjs/dist-ssr
 *.sw?
 
 #config
-reactjs/config.js
+reactjs/src/config.js
